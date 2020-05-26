@@ -21,7 +21,7 @@
         </activity>
 
         <activity
-            android:name=".MessageDetailsActivity"
+            android:name=".views.activities.MessageDetailsActivity"
             android:label="Message Details"
             android:parentActivityName=".views.activities.MainActivity">
 
@@ -31,7 +31,7 @@
         </activity>
 
         <activity
-            android:name=".ComposeMessageActivity"
+            android:name=".views.activities.ComposeMessageActivity"
             android:label="Compose Message"
             android:parentActivityName=".views.activities.MainActivity">
 
